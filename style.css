@@ -2,6 +2,7 @@ body {
     background-color: lightblue;
     display: flex;
     flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
 }
 header {
     width:100%; 
