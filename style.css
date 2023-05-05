@@ -1,6 +1,6 @@
 body {background-color: lightblue;}
 header {
-    width:60%; 
+    width:50%; 
     height:50px; 
     background-color:mediumpurple;
     /* border:solid 2px black;
@@ -24,9 +24,6 @@ section {
     width:100px;
     border-radius: 50px;
 }
-/* body {background-color: lightcoral;}
-
-.circle {background-color: lightseagreen; 
-    width: 100px; 
-    height: 100px; 
-    border-radius: 50px;} */
+ #name {
+    color:royalblue
+ }
