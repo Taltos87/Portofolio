@@ -81,7 +81,7 @@ section {
         rgba(0, 0, 0) );
         box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
                     inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-        border-radius: 10px;
+        border-radius: 20px;
     
     }
     .button:hover {
@@ -92,5 +92,5 @@ section {
         rgba(0, 0, 0) );
         box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
                     inset -2px -2px 3px rgba(0, 0, 0, 0.6);
-        border-radius: 10px;
+        border-radius: 20px;
     }
